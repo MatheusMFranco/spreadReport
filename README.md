@@ -1,10 +1,6 @@
 # Spread Report
 
-<div align="center">
-
 This is a cypress project to run e2e tests for my other projects.
-
-</div>
 
 ## How to run
 ```bash
